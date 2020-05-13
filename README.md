@@ -19,10 +19,15 @@ The following libraries/packages are needed:
 
 --Command Line Instructions--
 
-To generate the pattern, type:
+``` python
+# To generate the pattern, type:
 python cross_stitch_pattern.py -f [JPG input image filename] -o [output image filename] -n [number of colors] -c [canvas color (0 for black, 1 for white)]
 
-For example, the following command will create a pattern with 24 colors on a white canvas:
+# For example, the following command will create a pattern with 24 colors on a white canvas:
 python cross_stitch_pattern.py -f images/birds_input.jpg -o images/birds_output.jpg -n 24 -c 1
+```
 
-Note that a 600x400 image can take about 10 minutes to process 20 colors. 
+Note that a 600x400 image can take about 10 minutes to process 20 colors.
+
+![Example Input](images/birds_input.png)
+![Example Output](images/birds_output.png)
