@@ -29,5 +29,5 @@ python cross_stitch_pattern.py -f images/birds_input.jpg -o images/birds_output.
 
 Note that a 600x400 image can take about 10 minutes to process 20 colors.
 
-![Example Input](images/birds_input.png)
-![Example Output](images/birds_output.png)
+![Example Input](images/birds_input.jpg)
+![Example Output](images/birds_output.jpg)
