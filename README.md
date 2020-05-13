@@ -31,7 +31,10 @@ Note that a 600x400 image can take about 10 minutes to process 20 colors.
 
 Input Image             |  Output Image
 :-------------------------:|:-------------------------:
+![Example Input](images/cleome_input.jpg)  |  ![Example Output](images/cleome_output.jpg)
 ![Example Input](images/birds_input.jpg)  |  ![Example Output](images/birds_output.jpg)
+![Example Input](images/golden_eagle_input.jpg)  |  ![Example Output](images/golden_eagle_output.jpg)
+![Example Input](images/goat_input.jpg)  |  ![Example Output](images/goat_output.jpg)
 
 
 
